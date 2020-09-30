@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShadowGenerator/static/css/main.8198c0db.chunk.css",
+    "main.js": "/ShadowGenerator/static/js/main.4b89c379.chunk.js",
+    "main.js.map": "/ShadowGenerator/static/js/main.4b89c379.chunk.js.map",
+    "runtime-main.js": "/ShadowGenerator/static/js/runtime-main.6a6906f1.js",
+    "runtime-main.js.map": "/ShadowGenerator/static/js/runtime-main.6a6906f1.js.map",
+    "static/js/2.8920c66f.chunk.js": "/ShadowGenerator/static/js/2.8920c66f.chunk.js",
+    "static/js/2.8920c66f.chunk.js.map": "/ShadowGenerator/static/js/2.8920c66f.chunk.js.map",
+    "index.html": "/ShadowGenerator/index.html",
+    "precache-manifest.1e8d4ede3166b9d7c938cf1a7ce7c663.js": "/ShadowGenerator/precache-manifest.1e8d4ede3166b9d7c938cf1a7ce7c663.js",
+    "service-worker.js": "/ShadowGenerator/service-worker.js",
+    "static/css/main.8198c0db.chunk.css.map": "/ShadowGenerator/static/css/main.8198c0db.chunk.css.map",
+    "static/js/2.8920c66f.chunk.js.LICENSE.txt": "/ShadowGenerator/static/js/2.8920c66f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a6906f1.js",
+    "static/js/2.8920c66f.chunk.js",
+    "static/css/main.8198c0db.chunk.css",
+    "static/js/main.4b89c379.chunk.js"
+  ]
+}
